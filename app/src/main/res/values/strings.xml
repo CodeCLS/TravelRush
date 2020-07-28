@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TravelRush</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiY29kZWxzIiwiYSI6ImNrZDM4MmRxajFsOXIzMW12cDd5OW1mOG4ifQ.hO0KqIOMjz5Gs7MPMqMFUw</string>
+
 </resources>
